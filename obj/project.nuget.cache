@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wNTbBx2itm728NPyrPxU8PH8m3qle7eSA4+IntqT1+Y8a4rfcr/xpUjRGpDn5j1KeKc0kdZs39c8YSZQy2xCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DPeter\\source\\repos\\BackendAssignment1\\BackendAssignment1\\BackendAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DPeter\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DPeter\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

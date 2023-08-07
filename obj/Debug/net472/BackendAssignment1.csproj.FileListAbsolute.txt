@@ -1,0 +1,11 @@
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\bin\Debug\net472\BackendAssignment1.exe.config
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\bin\Debug\net472\BackendAssignment1.exe
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\bin\Debug\net472\BackendAssignment1.pdb
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.csproj.AssemblyReference.cache
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.AssemblyInfoInputs.cache
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.AssemblyInfo.cs
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.exe
+C:\Users\DPeter\source\repos\BackendAssignment1\BackendAssignment1\obj\Debug\net472\BackendAssignment1.pdb
